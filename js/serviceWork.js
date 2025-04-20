@@ -4,7 +4,7 @@ const CACHE_NAME = 'pwaV1';
 // Archivos para el cacheo de la app se colocan en un array
 let urlCache = [
     '../',
-    '../css/styles.css',
+    '../css/estilos.css',
     '../js/js.js',
     '../img/usuario.png',
     '../images/16_1.jpg',
@@ -12,6 +12,7 @@ let urlCache = [
     '../images/asesoria.jpg',
     '../images/Video 2.mp4',
     
+
 
 
 ];
