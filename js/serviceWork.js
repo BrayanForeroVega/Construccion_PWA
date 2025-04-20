@@ -1,5 +1,5 @@
 // Nombre de cache y versión
-const CACHE_NAME = 'pwaV1';
+const CACHE_NAME = 'PWAV1';
 
 // Archivos para el cacheo de la app se colocan en un array
 let urlCache = [

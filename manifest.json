@@ -11,12 +11,12 @@
     "orientation": "portrait",
     "icons" :[
         {
-            "src": "./img/usuario.png",
+            "src": "./images/asesoria.jpg",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "./img/usuario.png",
+            "src": "./images/Logo_blanco_2.png",
             "sizes": "96x96",
             "type": "image/png"
         }
