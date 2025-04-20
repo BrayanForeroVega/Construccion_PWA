@@ -6,11 +6,13 @@ let urlCache = [
     '../',
     '../css/estilos.css',
     '../js/js.js',
+    '../js/serviceWork.js',
     '../img/usuario.png',
     '../images/16_1.jpg',
     '../images/18_1.jpg',
     '../images/asesoria.jpg',
     '../images/Video 2.mp4',
+    '../worker.js'
     
 
 
@@ -30,7 +32,7 @@ self.addEventListener("install", (e) => {
         .catch(err => {
             console.error("No se ha registrado la cache" + err);
         })
-    )
+    );
 });
 
 // Activar la app con el evento activate
