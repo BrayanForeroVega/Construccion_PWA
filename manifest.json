@@ -1,0 +1,24 @@
+{
+    "theme_color": "#FFD1DC",
+    "background_color": "#FFEEEE",
+    "display": "standalone",
+    "scope": "./",
+    "start_url": "./index.html",
+    "name": "Ejercicio de PWA",
+    "short_name": "PWA",
+    "description": "Ejecicio para aprender sobre aplicaciones web progresivas",
+    "lang": "es-ES",
+    "orientation": "portrait",
+    "icons" :[
+        {
+            "src": "./img/usuario.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/usuario.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
